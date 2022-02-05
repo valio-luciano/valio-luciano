@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @valio-luciano
+- 👀 I’m interested in start a new carreer in technology
+- 🌱 I’m currently learning front end
+- 💞️ I’m looking to collaborate on websites and related contents
+- 📫 You can find my professional profile on linkedin link as follows https://www.linkedin.com/in/luciano-valio-874a9a21
